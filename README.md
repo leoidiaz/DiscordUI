@@ -1,6 +1,6 @@
 # Discord UI
 ## Re-creating the UI of the Discord iOS App
-A more in depth overview article can be found here: [Medium]() 
+A more in depth overview article can be found here: [Medium](https://medium.com/@leonardoidiaz/programmatic-ui-discord-de1e59b3c2be) 
 
 
 <p align = "center">
